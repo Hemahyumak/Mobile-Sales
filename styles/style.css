@@ -219,6 +219,10 @@ input[type ="submit"] {
 
 /* Mobile Menubar */
 
+.nav.menu-btn{
+  display: block;
+}
+
 .nav {
   position: fixed;
   z-index: 999;
